@@ -1,13 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package task_2;
 
 /**
- *  NIM = .............................................
- *  Nama = .............................................
+ * 
+ *  NIM = 1301154105
+ *  Nama = Ressa Firmansyah Fatah
+ * 
  */
 public class Main {
 
